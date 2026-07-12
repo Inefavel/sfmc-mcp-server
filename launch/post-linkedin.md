@@ -69,7 +69,7 @@ Link nos comentários 👇
 
 ## Comentário fixado (postar imediatamente após)
 
-GitHub: https://github.com/SEU_USUARIO/sfmc-mcp-server
+GitHub: https://github.com/Inefavel/sfmc-mcp-server
 npm: https://www.npmjs.com/package/sfmc-mcp-server
 
 Roadmap: status de automações, journeys ativas, métricas de envio, e gravação em DE com checkpoint/resume.
