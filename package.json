@@ -1,6 +1,7 @@
 {
   "name": "sfmc-mcp-server",
-  "version": "0.2.0",
+  "version": "0.2.1",
+  "mcpName": "io.github.Inefavel/sfmc-mcp-server",
   "description": "MCP Server para Salesforce Marketing Cloud — valide queries do Automation Studio antes de rodar, explore Data Extensions e consulte registros direto do Claude.",
   "type": "module",
   "main": "dist/index.js",
